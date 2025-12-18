@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "objetivos": "Objetivos",
+    "solidaria": "IT People Solidária",
+    "bonus": "IT People Bonus",
+    "beneficios": "Benefícios de Permanência",
+    "escolha": "IT People Escolha",
+    "conclusao": "Conclusão"
+  },
+  "hero": {
+    "title": "IT People First",
+    "subtitle": "Programa de Retenção de Talento",
+    "description": "Transformando a gestão de talentos através de um programa integrado que valoriza, reconhece e retém os profissionais que fazem a diferença.",
+    "cta": "Conheça o Programa"
+  },
+  "objetivos": {
+    "title": "Objetivos",
+    "subtitle": "O que procuramos alcançar",
+    "items": [
+      "Aumentar o sentimento de pertença",
+      "Promover o bem-estar físico, mental e social",
+      "Criar uma cultura de reconhecimento e desenvolvimento contínuo",
+      "Reforçar o propósito organizacional alinhado com responsabilidade social"
+    ]
+  },
+  "solidaria": {
+    "title": "IT People Solidária",
+    "subtitle": "Responsabilidade Social",
+    "items": [
+      "1-2 por ano – um dia dedicado à solidariedade",
+      "Angariação de bens alimentares, roupas, produtos de higiene, brinquedos e outros",
+      "Actividades ao ar livre para colaboradores e famílias",
+      "Rifa solidária com cabazes, vouchers ou outros perante participação solidária"
+    ]
+  },
+  "bonus": {
+    "title": "IT People Bonus",
+    "subtitle": "Reconhecimento Financeiro",
+    "description": "Bónus de Fidelização Anual com base nos anos de permanência sobre o salário bruto.",
+    "items": [
+      "Ano 1: 1-2%",
+      "Ano 2: 2-3%",
+      "Ano 3: Até x% (Mediante Possibilidade)"
+    ]
+  },
+  "beneficios": {
+    "title": "IT People Benefícios de Permanência",
+    "subtitle": "Valorização do Tempo e Dedicação",
+    "items": [
+      "Promover a retenção de talento na empresa com férias extra com base nos anos de permanência",
+      "1 Dia de férias a mais por cada 2 anos de permanência na empresa",
+      "Promover o bem-estar e qualidade de vida/trabalho"
+    ]
+  },
+  "escolha": {
+    "title": "IT People Escolha",
+    "subtitle": "Flexibilidade e Autonomia",
+    "items": [
+      "Inquérito 1 a 2 vezes por ano para perceber que benefícios adicionar, remover ou modificar",
+      "Fazer com que os colaboradores sejam ouvidos e façam parte da comunidade",
+      "Progredir de acordo com a necessidade dos colaboradores"
+    ]
+  },
+  "conclusao": {
+    "title": "Conclusão",
+    "subtitle": "",
+    "items": [
+      "Com isto conseguimos expor a empresa e a solidariedade através da RSE",
+      "Conseguimos promover e recompensar a permanência da empresa através do programa \"IT People Bonus\" e \"IT People Benefícios de Permanência\"",
+      "Conseguimos ouvir os nossos colaboradores e fazer decisões necessárias com base no \"IT People Escolha\""
+    ]
+  },
+  "footer": {
+    "copyright": "IT People First - Programa de Retenção de Talento"
+  }
+}
+

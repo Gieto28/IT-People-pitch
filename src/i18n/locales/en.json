@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "objetivos": "Objectives",
+    "solidaria": "IT People Solidária",
+    "bonus": "IT People Bonus",
+    "beneficios": "Retention Benefits",
+    "escolha": "IT People Choice",
+    "conclusao": "Conclusion"
+  },
+  "hero": {
+    "title": "IT People First",
+    "subtitle": "Talent Retention Program",
+    "description": "Transforming talent management through an integrated program that values, recognizes, and retains the professionals who make a difference.",
+    "cta": "Learn About the Program"
+  },
+  "objetivos": {
+    "title": "Objectives",
+    "subtitle": "What we aim to achieve",
+    "items": [
+      "Increase the feeling of belonging",
+      "Promote physical, mental and social well-being",
+      "Create a culture of continuous recognition and development",
+      "Reinforce organizational purpose aligned with social responsibility"
+    ]
+  },
+  "solidaria": {
+    "title": "IT People Solidária",
+    "subtitle": "Social Responsibility",
+    "items": [
+      "1-2 per year – a day dedicated to solidarity",
+      "Collection of food, clothes, hygiene products, toys and others",
+      "Outdoor activities for employees and families",
+      "Solidarity raffle with baskets, vouchers or others upon solidarity participation"
+    ]
+  },
+  "bonus": {
+    "title": "IT People Bonus",
+    "subtitle": "Financial Recognition",
+    "description": "Annual Loyalty Bonus based on years of service on gross salary.",
+    "items": [
+      "Year 1: 1-2%",
+      "Year 2: 2-3%",
+      "Year 3: Up to x% (Subject to Possibility)"
+    ]
+  },
+  "beneficios": {
+    "title": "IT People Retention Benefits",
+    "subtitle": "Valuing Time and Dedication",
+    "items": [
+      "Promote talent retention in the company with extra vacation based on years of permanence",
+      "1 extra vacation day for every 2 years of permanence in the company",
+      "Promote well-being and quality of life/work"
+    ]
+  },
+  "escolha": {
+    "title": "IT People Choice",
+    "subtitle": "Flexibility and Autonomy",
+    "items": [
+      "Survey 1 to 2 times a year to understand what benefits to add, remove or modify",
+      "Ensure employees are heard and are part of the community",
+      "Progress according to the needs of the employees"
+    ]
+  },
+  "conclusao": {
+    "title": "Conclusion",
+    "subtitle": "",
+    "items": [
+      "With this, we managed to expose the company and solidarity through CSR",
+      "We managed to promote and reward the company's permanence through the \"IT People Bonus\" program and \"IT People Permanence Benefits\"",
+      "We managed to listen to our employees and make necessary decisions based on \"IT People Choice\""
+    ]
+  },
+  "footer": {
+    "copyright": "IT People First - Talent Retention Program"
+  }
+}
+
