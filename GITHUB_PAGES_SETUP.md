@@ -43,6 +43,8 @@ Este comando irá:
 2. Fazer deploy para a branch `gh-pages` no GitHub
 3. O site estará disponível em: `https://USERNAME.github.io/itpeople`
 
+**Nota:** O arquivo `.nojekyll` está incluído no projeto para desabilitar o processamento Jekyll do GitHub Pages, que é necessário para sites React.
+
 ## Atualizar o homepage no package.json
 
 **IMPORTANTE:** Antes de fazer o deploy, atualize o campo `homepage` no `package.json` com o caminho correto do seu repositório:
