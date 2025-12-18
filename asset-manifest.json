@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/itpeople/static/css/main.403c2e16.css",
+    "main.js": "/itpeople/static/js/main.171acbb3.js",
+    "static/js/453.2048e5bf.chunk.js": "/itpeople/static/js/453.2048e5bf.chunk.js",
+    "static/media/logo_ITPeopleGroup.svg": "/itpeople/static/media/logo_ITPeopleGroup.6e0fecb2d62a1e45b4e4c7b6933292aa.svg",
+    "index.html": "/itpeople/index.html",
+    "main.403c2e16.css.map": "/itpeople/static/css/main.403c2e16.css.map",
+    "main.171acbb3.js.map": "/itpeople/static/js/main.171acbb3.js.map",
+    "453.2048e5bf.chunk.js.map": "/itpeople/static/js/453.2048e5bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.403c2e16.css",
+    "static/js/main.171acbb3.js"
+  ]
+}
