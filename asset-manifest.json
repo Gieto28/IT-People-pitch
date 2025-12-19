@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/itpeople/static/css/main.403c2e16.css",
-    "main.js": "/itpeople/static/js/main.171acbb3.js",
-    "static/js/453.2048e5bf.chunk.js": "/itpeople/static/js/453.2048e5bf.chunk.js",
-    "static/media/logo_ITPeopleGroup.svg": "/itpeople/static/media/logo_ITPeopleGroup.6e0fecb2d62a1e45b4e4c7b6933292aa.svg",
-    "index.html": "/itpeople/index.html",
-    "main.403c2e16.css.map": "/itpeople/static/css/main.403c2e16.css.map",
-    "main.171acbb3.js.map": "/itpeople/static/js/main.171acbb3.js.map",
-    "453.2048e5bf.chunk.js.map": "/itpeople/static/js/453.2048e5bf.chunk.js.map"
+    "main.css": "/IT-People-pitch/static/css/main.a0cc3017.css",
+    "main.js": "/IT-People-pitch/static/js/main.8e2d6dc0.js",
+    "static/js/453.2048e5bf.chunk.js": "/IT-People-pitch/static/js/453.2048e5bf.chunk.js",
+    "static/media/logo_ITPeopleGroup.svg": "/IT-People-pitch/static/media/logo_ITPeopleGroup.6e0fecb2d62a1e45b4e4c7b6933292aa.svg",
+    "index.html": "/IT-People-pitch/index.html",
+    "main.a0cc3017.css.map": "/IT-People-pitch/static/css/main.a0cc3017.css.map",
+    "main.8e2d6dc0.js.map": "/IT-People-pitch/static/js/main.8e2d6dc0.js.map",
+    "453.2048e5bf.chunk.js.map": "/IT-People-pitch/static/js/453.2048e5bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.403c2e16.css",
-    "static/js/main.171acbb3.js"
+    "static/css/main.a0cc3017.css",
+    "static/js/main.8e2d6dc0.js"
   ]
 }
