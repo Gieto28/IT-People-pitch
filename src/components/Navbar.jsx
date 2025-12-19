@@ -63,11 +63,17 @@ const Navbar = () => {
             onClick={() => scrollToSection('hero')}
             className="flex items-center space-x-3 transition-opacity hover:opacity-80"
           >
-            <img 
-              src={logo} 
-              alt="IT People First" 
-              className={`h-8 ${isScrolled ? '' : 'brightness-0 invert'}`}
-            />
+            <div className={`h-8 px-2 py-1 rounded-md flex items-center justify-center transition-all duration-300 ${
+              isScrolled 
+                ? 'bg-primary-200 dark:bg-gray-800 shadow-sm' 
+                : 'bg-transparent'
+            }`}>
+              <img 
+                src={logo} 
+                alt="IT People First" 
+                className={`h-6 transition-all duration-300 ${isScrolled ? '' : 'brightness-0 invert'}`}
+              />
+            </div>
             <span className={`text-xl font-bold transition-colors ${
               isScrolled 
                 ? 'text-primary-600 dark:text-primary-400' 
